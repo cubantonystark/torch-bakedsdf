@@ -2,7 +2,8 @@
 An unofficial pytorch implementation of [Meshing Neural SDFs for Real-Time View Synthesis](https://bakedsdf.github.io/).
 ![Demo Link](demo.gif)
 
-We support exporting baked assets for **real-time rendering on WebGL, Unity and Unreal**
+We support exporting baked assets for **real-time rendering on WebGL, Unity and Unreal* 
+Create a conda anevironment with python 3.10
 
 # Install 
 ```
